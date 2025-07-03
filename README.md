@@ -6,7 +6,7 @@
 The code takes an LDR file as an input to produce a modelica code as an output (cutomized only for gears for gears)
   - The name of the LDR file(within script) is changeable and must match the name of the actual file!
   - Also the Dictionary that contains the information about gears, has to cover and to be filled with all the gears that exist in the LDR file first.  
-  - Script only handles gears with rotation angels of 90 degrees and its multiples. Rotation of gears has to be made only after being initailly setting the       coordinate axis of the part(gear) parallel to the reference coordinate axis of LeoCAD. 
+  - Script only handles gears with rotation angels of 90 degrees and its multiples. Rotation of gears has to be made only after coordinate axis of the part(gear) being initailly set parallel to the reference coordinate axis of LeoCAD. 
 
 
 !!! Disclaimer !!!
